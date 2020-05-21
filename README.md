@@ -1,4 +1,5 @@
 # Coop Adventures Minecraft Modpack
+![Coop Adventures header image](2020-05-21_17.55.20.jpg)
 
 Settle a colony, explore dungeons and new worlds with friends.
 In Coop Adventures you can do all this and more. Mods to complex or overwhelming? in Coop Adventures you can be guided by hundreds of custom quests and achievements.
